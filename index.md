@@ -16,6 +16,11 @@ https://docs.google.com/spreadsheets/d/1G2QZU7p3CVcostb67w0n4D_yWYAtQN-PEsBtjMN6
 			* [Tóm tắt: Cả đi và về là 600km, hành trình về miền Tây, địa điểm ít được đi](#tóm-tắt-cả-đi-và-về-là-600km-hành-trình-về-miền-tây-địa-điểm-ít-được-đi)
 * [Plan 2: Cắm trại Thăm thác Mai trên dòng sông La Ngà](#plan-2-cắm-trại-thăm-thác-mai-trên-dòng-sông-la-ngà)
 			* [Tóm tắt: Chỉ cách thành phố Hồ Chí Minh khoảng hơn 100km, cả đi và về vào khoảng 300km](#tóm-tắt-chỉ-cách-thành-phố-hồ-chí-minh-khoảng-hơn-100km-cả-đi-và-về-vào-khoảng-300km)
+* [Plan 3: Tây Nguyên (Ưu tiên, chưa đi)](#plan-3-tây-nguyên-ưu-tiên-chưa-đi)
+* [Plan 4: Nha Trang](#plan-4-nha-trang)
+* [Plan 5: Đà nẵng](#plan-5-đà-nẵng)
+* [Plan 6: Daklak](#plan-6-daklak)
+* [Plan 7: Phú Yên](#plan-7-phú-yên)
 
 <!-- /code_chunk_output -->
 
@@ -107,3 +112,9 @@ Những điều thú vị mà bạn sẽ được trải nghiệm trên hành tr
 5. Tắm Thác
 6. Cắm Trại, đốt lửa trại, tổ chức team building hoặc đơn giản là khám phá rừng "đi tìm thượng nguồn con thác"
 Tham khảo thêm tại: http://www.thueleudulich.com/2015/03/lich-trinh-trai-nghiem-cam-trai-tai.html
+
+# Plan 3: Tây Nguyên (Ưu tiên, chưa đi)
+# Plan 4: Nha Trang
+# Plan 5: Đà nẵng
+# Plan 6: Daklak
+# Plan 7: Phú Yên
